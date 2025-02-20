@@ -2,21 +2,20 @@
 # Riyadh Housing Data Analysis
 
 ## Introduction
-
-شراء المنزل المناسب هو قرار مهم يتطلب دراسة وتحليل بيانات السوق العقاري. يهدف هذا المشروع إلى تحليل بيانات العقارات في الرياض لمساعدة المشترين والمستثمرين على اتخاذ قرارات مبنية على بيانات دقيقة.
+Buying the right home is an important decision that requires studying and analyzing real estate market data. This project aims to analyze real estate data in Riyadh to help buyers and investors make decisions based on accurate data.
 
 ### Objectives:
 
-- تحليل سوق العقارات في الرياض باستخدام أدوات تحليل البيانات المتقدمة.
-- استكشاف العوامل التي تؤثر على أسعار الشقق السكنية.
-- تقديم رؤى واضحة حول توزيع الأسعار والمساحات والأحياء الأكثر طلبًا.
-- عرض النتائج بطريقة تفاعلية باستخدام Streamlit.
+- Analyze the real estate market in Riyadh using advanced data analysis tools.
+- Explore the factors that affect residential apartment prices.
+- Provide clear insights into the distribution of prices, areas, and most sought-after neighborhoods.
+- Display results interactively using Streamlit.
 
 ---
 
 ## Dataset Overview
 
-تم استخدام ثلاث مجموعات بيانات من Kaggle تتضمن معلومات مفصلة عن العقارات في الرياض:
+Three datasets from Kaggle were used that include detailed information about real estate in Riyadh:
 
 - [Apartments in Riyadh](https://www.kaggle.com/datasets/abdulmalikm/apartments-in-riyadh)
 - [Riyadh Aqar Dataset](https://www.kaggle.com/datasets/myfaisal/riyadh-aqaar-dataset)
@@ -78,9 +77,9 @@
 
 ## Conclusion
 
-تحليل سوق العقارات في الرياض يوضح وجود تفاوت في الأسعار حسب الموقع والمساحة. يمكن للمشترين والمستثمرين استخدام هذه البيانات لاتخاذ قرارات مدروسة بناءً على أنماط السوق الحالية.
+Riyadh real estate market analysis shows that there is a disparity in prices depending on location and area. Buyers and investors can use this data to make informed decisions based on current market patterns.
 
-مخرجات المشروع متاحة عبر واجهة تفاعلية وسرد قصصي لسهولة البحث والاستكشاف.
+Project outputs are available via an interactive interface and storytelling for easy searching and exploration.
 
 
 ---
