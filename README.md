@@ -85,4 +85,5 @@ Project outputs are available via an interactive interface and storytelling for 
 ---
 
 ## Streamlit App:
-https://st-hello-world-v5be87oaguyugqwjenf3fk.streamlit.app/
+[https://st-hello-world-v5be87oaguyugqwjenf3fk.streamlit.app/
+](https://usecase-6-project-3-8wm2pdvja5trevcthxymmu.streamlit.app)
